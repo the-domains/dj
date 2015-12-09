@@ -1,0 +1,28 @@
+name: DJ
+favicon: null
+layout_spectrum: 0.019379037898033857
+typography_spectrum: 0.10784096946008503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.45357105578295887
+  lightness: 0.06908241240307689
+  saturation: 0.3620518355164677
+  rhythmicContrast: 0.6728108881507069
+purpose: []
